@@ -1,13 +1,13 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Star Ring Corporation
+title: SRC | Star Ring Corporation Official
+description: Star Ring Corporation Official
+  May the force be with you
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - website
+  - official
+  - technology
+  - development
+  - starring
 show_hero: true
 menu:
   - title: Home
