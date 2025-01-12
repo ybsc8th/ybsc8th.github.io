@@ -1,14 +1,14 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: YBTO 8th
+title: YBTO 8th| YBTO 8th Official
+description: YBTO 8th Official
+  we are the best
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - technology
+  - company
+  - Tianjin No.1 High School
+  - website
+  - development
 show_hero: true
 menu:
   - title: Home
@@ -29,7 +29,7 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: ybto8th
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
@@ -110,4 +110,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+version: v1.0.0
